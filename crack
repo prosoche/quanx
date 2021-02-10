@@ -1,3 +1,5 @@
+hostname = nmeditation.snailsleep.net,api.pushover.net,subs.platforms.team,api.hulusaas.com,snailsleep.net,music.snailsleep.net,community.snailsleep.net,subs.platforms.team,www.mindmeister.com,getway.radio.cn,api.591master.com,buy.itunes.apple.com,mb3admin.com
+
 # > 067 儿童睡前故事 解锁VIP故事（20210131）
 https://www.babybooks.top/v0/profile url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/etsqgs.js
 
